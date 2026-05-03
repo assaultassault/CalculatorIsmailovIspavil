@@ -1,4 +1,4 @@
-﻿using CalculatorIsmaiov.Lib;
+﻿using CalculatorIsmailov.Lib;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
